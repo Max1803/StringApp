@@ -1,0 +1,77 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="myapp.max.string.StringActivity">
+
+    <item
+        android:id="@+id/compareTo"
+        android:orderInCategory="100"
+        android:title="compareTo"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/compareToIgnoreCase"
+        android:orderInCategory="100"
+        android:title="compareToIgnoreCase"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/contains"
+        android:orderInCategory="100"
+        android:title="contains"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/endsWith"
+        android:orderInCategory="100"
+        android:title="endsWith"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/startsWith"
+        android:orderInCategory="100"
+        android:title="startsWith"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/equals"
+        android:orderInCategory="100"
+        android:title="equals"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/indexOf"
+        android:orderInCategory="100"
+        android:title="indexOf"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/lastIndexOf"
+        android:orderInCategory="100"
+        android:title="lastIndexOf"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/replace"
+        android:orderInCategory="100"
+        android:title="replace"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/substring"
+        android:orderInCategory="100"
+        android:title="substring"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/toLowerCase"
+        android:orderInCategory="100"
+        android:title="toLowerCase"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/toUpperCase"
+        android:orderInCategory="100"
+        android:title="toUpperCase"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/trim"
+        android:orderInCategory="100"
+        android:title="trim"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/split"
+        android:orderInCategory="100"
+        android:title="split"
+        app:showAsAction="never" />
+
+</menu>
